@@ -1,0 +1,23 @@
+{
+  "name": "chrome-entensions",
+  "version": "1.0.0",
+  "description": "Chrome Extension Tutorial Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaac1995514/chrome-extension.git"
+  },
+  "keywords": [
+    "Chrome",
+    "Extension"
+  ],
+  "author": "Isaac Leong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isaac1995514/chrome-extension/issues"
+  },
+  "homepage": "https://github.com/isaac1995514/chrome-extension#readme"
+}
